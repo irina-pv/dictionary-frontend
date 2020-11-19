@@ -1,1 +1,1 @@
-# dictionary-frontend
+https://github.com/web-standards-ru/dictionary
